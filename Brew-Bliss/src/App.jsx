@@ -16,7 +16,6 @@ function App() {
   return (
     <>
       <div className="font-sans overflow-x-hidden">
-      <ThemeToggle />
         <Navbar />
         <main>
           <Hero />
